@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374334d7-89b7-42b4-878b-3a16528f0375" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/static" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/static" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/has-flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/system/has-flag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/safe.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/safe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/benchmark/node-static-0.3.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/benchmark/node-static-0.3.0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/bin/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/bin/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/examples/file-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/examples/file-server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/lib/node-static.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/lib/node-static.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/lib/node-static/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/lib/node-static/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/test/fixtures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/test/fixtures/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/test/fixtures/there/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/test/fixtures/there/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-static/test/integration/node-static-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-static/test/integration/node-static-test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/buffer-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/buffer-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/event-target.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/event-target.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/extension.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/extension.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/permessage-deflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/permessage-deflate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/receiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/receiver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/sender.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/sender.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="374334d7-89b7-42b4-878b-3a16528f0375" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -75,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -205,12 +150,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526661255488</updated>
       <workItem from="1526661257265" duration="2990000" />
-      <workItem from="1527341291658" duration="3450000" />
+      <workItem from="1527341291658" duration="4155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6440000" />
+    <option name="totallyTimeSpent" value="7145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -286,8 +231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
