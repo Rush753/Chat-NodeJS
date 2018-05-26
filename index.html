@@ -1,22 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+
 <body>
-<!-- форма для отправки сообщений -->
-<form name="publish">
-    <input type="text" name="message">
-    <input type="submit" value="Отправить">
-</form>
-
-<!-- здесь будут появляться входящие сообщения -->
-<div id="subscribe"></div>
-<script type="text/javascript" src="script.js"></script>
+    <div>
+        <input id="txtLogin" type="text">
+        <button id="btnLogin">Login</button>
+    </div>
+    <div>
+        <input id="txtSend" type="text">
+        <button id="btnSend">Send Message</button>
+    </div>
+    <div id="subscribe"></div>
+    <div id="userList"></div>
 </body>
-</html>
+<script src="./script.js"></script>
 
+</html>
